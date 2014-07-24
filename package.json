@@ -1,0 +1,22 @@
+{
+  "name": "wolves",
+  "version": "0.0.0",
+  "description": "Wolves",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ampersand-dom": "^1.2.1",
+    "ampersand-router": "^1.0.2",
+    "ampersand-view": "^6.0.8",
+    "ampersand-view-switcher": "^1.0.2",
+    "getconfig": "^0.3.0",
+    "hapi": "^6.2.1",
+    "moonboots_hapi": "^2.4.0",
+    "stylizer": "^0.7.0",
+    "templatizer": "^0.3.6"
+  }
+}
